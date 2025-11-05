@@ -1,8 +1,8 @@
 const players = [
   { name:"LeBron James", team:"Lakers", points:27.8, rebounds:8.2, assists:8.6 },
   { name:"Stephen Curry", team:"Warriors", points:30.1, rebounds:5.4, assists:6.3 },
-  { name:"Kevin Durant", team:"Suns", points:28.4, rebounds:7.2, assists:5.6 },
-  { name:"Luka Dončić", team:"Mavericks", points:32.2, rebounds:8.5, assists:9.1 },
+  { name:"Kevin Durant", team:"Rockets", points:28.4, rebounds:7.2, assists:5.6 },
+  { name:"Luka Dončić", team:"Lakers", points:32.2, rebounds:8.5, assists:9.1 },
   { name:"Giannis Antetokounmpo", team:"Bucks", points:31.5, rebounds:11.9, assists:5.7 },
 ];
 
